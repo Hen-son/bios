@@ -1,3 +1,15 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://bios.github.io/"
+languageCode = "DE-de"
+title = "bios"
+theme = "hugo-theme-casper"
+paginate = 2
+Copyright = "© hfueller 2022"
+canonifyurls = true
+[params]
+description = "BIOS - Bios, Technologien, Gesundheit"
+authorlocation = "authorlocation"
+## cover = "images/cover.png"
+## save the image you want to use as background picture in directory "./static/images"author = "author name"(delete this line when editing)
+## logo = "images/logo.png"
+## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
+email = "henning.fueller@geo.hu-berlin.de"
